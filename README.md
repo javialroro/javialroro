@@ -7,8 +7,8 @@ I am a Computer Science student at the Costa Rica Institute of Technology (ITCR)
 ## Skills
 
 - **Programming Languages:** Python, JavaScript, Java, TypeScript.
-- **Web Development:** HTML, CSS, JavaScript, React
-- **Databases:** SQL, MongoDB, Neo4J, Redis
+- **Web Development:** HTML, CSS, JavaScript, React.
+- **Databases:** SQL, MongoDB, Neo4J, Redis.
 - **Others:** Version control with Git, Docker, Google Cloud, Azure.
 
 ## Contact
