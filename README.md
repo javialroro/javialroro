@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,java,cpp,go,python,typescript,javascript" />
 
   <!-- Web -->
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,express" />
