@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=c,java,cpp,go,python,typescript,javascript" />
 
   <!-- Web -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,express,nextjs" />
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
