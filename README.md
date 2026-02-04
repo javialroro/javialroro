@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 
   <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=git,docker,kafka,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,helm,bash,linux" />
 
   <!-- Testing -->
   <img src="https://skillicons.dev/icons?i=jest" />
