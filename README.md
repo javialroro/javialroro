@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 
   <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,helm,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,bash,linux" />
 
   <!-- Testing -->
   <img src="https://skillicons.dev/icons?i=jest" />
@@ -34,11 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javialroro&show_icons=true&theme=merko" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javialroro&layout=compact&theme=merko" alt="Top Languages" height="180"/>
-</p>
 
 ---
 
