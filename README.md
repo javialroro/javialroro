@@ -33,11 +33,3 @@
 </p>
 
 ---
-
-
----
-
-### 🚀 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=javialroro&theme=merko&hide_border=true" alt="GitHub Streak"/>
-</p>
